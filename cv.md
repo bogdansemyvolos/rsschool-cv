@@ -5,16 +5,16 @@
  * Email: 	bogdansemyvolos@gmail.com
  * Skype: 	bad_02
  
- ### Sphere: 
+### Sphere: 
  QA / automated testing
  
- ### Languages:
+### Languages:
  XML, HTML\ CSS (basic level), SQL, XPath, Java, AutoIT
  
- ### Tools:
+### Tools:
  Jira, TestLink, , Altova XMLSpy, HP Service Manager, SVN, Filezilla, Putty, Browsers development tools, Confluence,  Eclipse, Bamboo, Selenium, Selenium IDE, TestNG, JUnit, FireBug, SQL Developer, Maven, Fiddler, SharePoint, IntelliJ IDEA, Jenkins, GIT, Microsoft SQL Server, Apache Tomcat, Selenide, Selenoid, TestRail, Rundeck
  
- ### Skills:
+### Skills:
  * Strong knowledge in Bug Life Cycle;
  * Gray and Black Box Testing, Integration Testing, Regression Testing, Smoke Testing, Acceptance Testing, Automation Testing;
  * Audit technical documentation;
