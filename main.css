@@ -1,0 +1,46 @@
+body {
+    background-color: lightgray;
+    font-family: "Calibri", "Arial", sans-serif;;
+    font-size: large;
+    margin:0;
+    padding:0;
+  }
+
+  .container {
+    background-color: rgb(245, 252, 230);
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  .column {
+    flex: 50%;
+  }
+
+  img {
+    padding: 50px;
+  }
+
+  table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+  td {
+    padding: 10px;
+    border: 2px solid black;
+    vertical-align: top;
+  }
+
+  .first-table-column {
+    width: 25%;
+  }
+
+  .second-table-column {
+    width: 75%;
+  }
